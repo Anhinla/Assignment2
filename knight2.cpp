@@ -1,5 +1,4 @@
 #include "knight2.h"
-#github is powerful
 /********************    FUNCTION   ******************/
 string TypeK(KnightType a){
     if(a==PALADIN){
